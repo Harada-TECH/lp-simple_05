@@ -54,4 +54,8 @@ XXXとは
 
 ----------【CSS】----------
 
-font-family: "メイリオ","Meiryo","ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro","ＭＳ ゴシック","Osaka",sans-serif;
+@import "https://unpkg.com/ress/dist/ress.min.css";
+
+----------
+
+font-family: "Zen Maru Gothic", sans-serif;
